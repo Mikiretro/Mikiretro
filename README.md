@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me? easy contact me in discord @paperyt
+- <img src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-665.gif">
   
 
 <!---
