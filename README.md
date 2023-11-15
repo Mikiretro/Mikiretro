@@ -11,8 +11,6 @@
 <a href="https://github.com/Paperyt">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Paperyt&count_private=true&hide=prs&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paperyt&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true"  />
-
-<br>
  <img src="https://media.tenor.com/Tg9tl-eeOb0AAAAC/anime.gif">
   
 
