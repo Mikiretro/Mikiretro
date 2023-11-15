@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me? easy contact me in discord @paperyt
+  <br>
    <img src="https://media.tenor.com/Tg9tl-eeOb0AAAAC/anime.gif">
   <br>
 <p align=center>
