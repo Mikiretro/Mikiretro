@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me? easy contact me in discord @paperyt
-  
   <br>
-
 <p align=center>
 <a href="https://github.com/Paperyt">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Paperyt&count_private=true&hide=prs&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" />
