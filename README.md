@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2318F72b&size=22&height=30&lines=Hello+There+!;I'm+Honey+!;A+Student+Developer)](https://github.com/Paperyt)
-- 👋 Hi, I’m @Paperyt
+- 👋 Hi, I’m @honey
 - 👀 I’m interested in building websites and coding cool stuff
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on new projects 
