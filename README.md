@@ -3,7 +3,7 @@
 - 👀 I’m interested in building websites and coding cool stuff
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on new projects 
-- 📫 How to reach me? easy contact me in discord @paperyt
+- 📫 How to reach me? easy contact me in discord @mikiretro
   <br>
    <img src="https://media.tenor.com/Tg9tl-eeOb0AAAAC/anime.gif">
   <br>
