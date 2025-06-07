@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me? easy contact me in discord @mikiretro
   <br>
+  <div class="tenor-gif-embed" data-postid="162836014164555674" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/bill-cipher-rainbow-weirdmaggedon-spinning-gif-162836014164555674">Bill Cipher Rainbow GIF</a>from <a href="https://tenor.com/search/bill+cipher-gifs">Bill Cipher GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
    <img src="https://tenor.com/view/bill-cipher-rainbow-weirdmaggedon-spinning-gif-162836014164555674">
   <br>
 <p align=center>
