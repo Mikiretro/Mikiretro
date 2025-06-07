@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me? easy contact me in discord @mikiretro
   <br>
-   <img src="https://tenor.com/view/bill-cipher-gravity-falls-gif-16288621248247110878">
+   <img src="https://i.pinimg.com/originals/7f/92/fb/7f92fb69d59bcbaf29b4a1123661477d.gif">
   <br>
 <p align=center>
 <a href="https://github.com/Paperyt">
