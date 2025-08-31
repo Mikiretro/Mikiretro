@@ -1,9 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%FF2C2C&size=22&height=30&lines=Hello+There+!;I'm+Honey+!;A+Student+Developer)](https://github.com/mikiretro)
 - 👋 Hi, I’m @honey
 - 👀 I’m interested in building websites and coding cool stuff
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning linux 
 - 💞️ I’m looking to collaborate on new projects 
-- 📫 How to reach me? easy contact me in discord @mikiretro
+- 📫 How to reach me? easy contact me in discord @0retro
   <br>
    <img src="https://i.pinimg.com/originals/7f/92/fb/7f92fb69d59bcbaf29b4a1123661477d.gif">
   <br>
