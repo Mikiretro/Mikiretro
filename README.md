@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%FF2C2C&size=22&height=30&lines=Hello+There+!;I'm+Honey+!;A+Student+Developer)](https://github.com/mikiretro)
-- 👋 Hi, I’m @honey
+- 👋 Hi, I’m @hon
 - 👀 I’m interested in building websites and coding cool stuff
 - 🌱 I’m currently learning linux 
 - 💞️ I’m looking to collaborate on new projects 
