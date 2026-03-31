@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me? easy contact me in discord @0retro
   <br>
-   <img src="https://i.pinimg.com/originals/7f/92/fb/7f92fb69d59bcbaf29b4a1123661477d.gif">
+   <img src="https://giphy.com/gifs/araya-limbus-company-C1BbKOnxR8Ott6Xg4o">
   <br>
 <p align=center>
 <a href="https://github.com/Paperyt">
